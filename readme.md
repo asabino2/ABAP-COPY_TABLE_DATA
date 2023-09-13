@@ -2,7 +2,7 @@
 
 O programa ZPBCR_EXPORT_IMPORT_TABLE_DATA é uma ferramenta útil para exportar e importar dados de tabelas do SAP para um arquivo. Isso permite que você faça backup das informações e transporte dados de uma tabela para outro ambiente SAP.
 
-Use o abapgit ([https://abapgit.org]/) para subir essa aplicação para o seu sistema
+Use o abapgit (https://abapgit.org/) para subir essa aplicação para o seu sistema
 
 ## Como usar
 
